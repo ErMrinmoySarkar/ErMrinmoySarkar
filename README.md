@@ -239,6 +239,15 @@ Showing up regularly matters more to me than any single streak. These cards are 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AnshuSAHA176&show_icons=true&hide_border=true&bg_color=0B1020&title_color=38BDF8&icon_color=818CF8&text_color=CBD5E1" alt="GitHub stats" />
 <img width="49%" src="https://streak-stats.demolab.com?user=AnshuSAHA176&hide_border=true&background=0B1020&ring=38BDF8&fire=818CF8&currStreakNum=E2E8F0&currStreakLabel=38BDF8&sideNums=E2E8F0&sideLabels=94A3B8&dates=64748B" alt="GitHub streak" />
 
+<br><br>
+
+<!-- Needs .github/workflows/snake.yml. It stays empty until that workflow has run once. -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnshuSAHA176/AnshuSAHA176/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnshuSAHA176/AnshuSAHA176/output/github-snake.svg" />
+  <img alt="Snake animation eating my contribution graph" src="https://raw.githubusercontent.com/AnshuSAHA176/AnshuSAHA176/output/github-snake.svg" />
+</picture>
+
 </div>
 
 <!-- Add this after sharing your LeetCode username (swap in the real one):
