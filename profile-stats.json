@@ -1,0 +1,29 @@
+{
+  "login": "ErMrinmoySarkar",
+  "totalContributions": 257,
+  "totalCommits": 239,
+  "pullRequests": 4,
+  "issues": 0,
+  "starsEarned": 0,
+  "publicRepos": 13,
+  "currentStreak": {
+    "days": 2,
+    "start": "2026-11-26",
+    "end": "2026-11-27"
+  },
+  "longestStreak": {
+    "days": 3,
+    "start": "2026-11-22",
+    "end": "2026-11-24"
+  },
+  "contributionsLastYear": 224,
+  "languages": {
+    "HTML": 15453,
+    "CSS": 31373,
+    "JavaScript": 90239,
+    "EJS": 26471,
+    "Python": 24739,
+    "Java": 34334
+  },
+  "generatedAt": "2026-11-28T10:37:30Z"
+}

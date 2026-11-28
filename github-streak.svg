@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="215" viewBox="0 0 440 215" role="img" aria-labelledby="t d">
+<title id="t">GitHub contribution streak</title>
+<desc id="d">Total contributions, current streak and longest streak in days.</desc>
+<style>
+text{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace}
+.h{font-size:15px;font-weight:700;fill:#38bdf8}
+.sub{font-size:10px;fill:#64748b}
+.n{font-size:24px;font-weight:700;fill:#e2e8f0}
+.l{font-size:11px;fill:#cbd5e1}
+.big{font-size:30px;font-weight:700;fill:#e2e8f0}
+.d{font-size:10px;fill:#64748b}
+
+</style>
+<rect x="0.5" y="0.5" width="439" height="214" rx="10" fill="#0B1020" stroke="#1e293b"/>
+<text class="h" x="24" y="36">Contribution Streak</text>
+<text class="big" x="73" y="118" text-anchor="middle">257</text>
+<text class="l" x="73" y="170" text-anchor="middle">Contributions</text>
+<text class="d" x="73" y="188" text-anchor="middle">all time</text>
+<circle cx="220" cy="108" r="40" fill="none" stroke="#38bdf8" stroke-width="3"/>
+<text class="big" x="220" y="118" text-anchor="middle">2</text>
+<text class="l" x="220" y="170" text-anchor="middle">Current streak</text>
+<text class="d" x="220" y="188" text-anchor="middle">Nov 26, 2026 -</text>
+<text class="d" x="220" y="201" text-anchor="middle">Nov 27, 2026</text>
+<text class="big" x="367" y="118" text-anchor="middle">3</text>
+<text class="l" x="367" y="170" text-anchor="middle">Longest streak</text>
+<text class="d" x="367" y="188" text-anchor="middle">Nov 22, 2026 -</text>
+<text class="d" x="367" y="201" text-anchor="middle">Nov 24, 2026</text>
+</svg>

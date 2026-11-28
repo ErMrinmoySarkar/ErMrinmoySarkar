@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="215" viewBox="0 0 440 215" role="img" aria-labelledby="t d">
+<title id="t">Mrinmoy Sarkar GitHub stats</title>
+<desc id="d">Total contributions, commits, pull requests, issues, stars earned and public repositories.</desc>
+<style>
+text{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace}
+.h{font-size:15px;font-weight:700;fill:#38bdf8}
+.sub{font-size:10px;fill:#64748b}
+.n{font-size:24px;font-weight:700;fill:#e2e8f0}
+.l{font-size:11px;fill:#cbd5e1}
+.big{font-size:30px;font-weight:700;fill:#e2e8f0}
+.d{font-size:10px;fill:#64748b}
+
+</style>
+<rect x="0.5" y="0.5" width="439" height="214" rx="10" fill="#0B1020" stroke="#1e293b"/>
+<text class="h" x="24" y="36">Mrinmoy Sarkar / GitHub Stats</text>
+<text class="n" x="24" y="84">257</text>
+<text class="l" x="24" y="101">Total contributions</text>
+<text class="n" x="24" y="134">239</text>
+<text class="l" x="24" y="151">Total commits</text>
+<text class="n" x="24" y="184">4</text>
+<text class="l" x="24" y="201">Pull requests</text>
+<text class="n" x="232" y="84">0</text>
+<text class="l" x="232" y="101">Issues</text>
+<text class="n" x="232" y="134">0</text>
+<text class="l" x="232" y="151">Stars earned</text>
+<text class="n" x="232" y="184">13</text>
+<text class="l" x="232" y="201">Public repos</text>
+</svg>
